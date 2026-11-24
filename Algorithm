@@ -1,0 +1,37 @@
+Algorithm
+
+START
+
+1. Create an array to store five simulated account IDs.
+
+2. Create another array to store the number of failed login attempts for each account.
+
+3. Ask the user to enter five account IDs.
+
+4. Ask the user to enter the number of failed login attempts for each account.
+
+5. Check that all failed login attempts are non-negative whole numbers.
+
+6. If the user enters an invalid number, reject it and ask them to try again.
+
+7. Display all account IDs and their corresponding failed login attempts.
+
+8. Check each account to see if it has five or more failed login attempts.
+
+9. Display the account IDs that have five or more failed attempts.
+
+10. Count and display the total number of suspicious accounts.
+
+11. Display a message indicating whether suspicious activity was detected.
+
+12. Calculate the total number of failed login attempts.
+
+13. Find and display the account with the highest number of failed login attempts.
+
+14. Calculate the average number of failed login attempts per account.
+
+15. Display the account activity summary.
+
+16. Check for invalid account information or empty arrays.
+
+END
